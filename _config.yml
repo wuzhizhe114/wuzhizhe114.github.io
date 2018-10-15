@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wuzhizhe
+title: 無知者也
 subtitle:
 description:
-keywords:
+keywords: '无知者 无知者也 無知者也'
 author: wuzhizhe114
-language:
+language: 
+- zh-cn
+- zh-tw
 timezone:
 
 # URL
